@@ -85,6 +85,7 @@ Hi, my name is Sendrick. I'm 20 years old, from Minas Gerais, and i'm currently 
       align="left" 
       alt="GitHub Stats" 
       height="300" 
+      width="300"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kksensen&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
