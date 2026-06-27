@@ -58,10 +58,19 @@
 <h2 align="center"> <img src="img/title-stats.png" width="80"/> <em>Statistics</em> </h2>
 
 <p align="center">
+  <!-- Estatísticas Gerais -->
   <img src="https://github-readme-stats.vercel.app/api?username=kksensen&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&locale=en" height="170" alt="GitHub Stats" />
+  
+  <!-- Streak Stats (100% Preto e Branco) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kksensen&theme=dark&background=0D1117&border=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" height="170" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Linguagens (Centralizado, com a barra de progresso nativa) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kksensen&layout=compact&custom_title=Languages&langs_count=9&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
+  <!-- Gráfico de Contribuições (Linha) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kksensen&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=false&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
