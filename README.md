@@ -1,92 +1,67 @@
-## Sendrick Muniz
+<!-- BANNER -->
+<img src="img/banner.jpg" width="100%" alt="Banner" />
 
-**`Desenvolvedor de Software`**
+<br>
 
-Hi, my name is Sendrick. I'm 20 years old, from Minas Gerais, and i'm currently studying Systems Analysis and Development at PUC Minas.
+<!-- REDES SOCIAIS -->
+<p align="center">
+  <a href="https://github.com/kksensen" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sendrickpaz/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<div> 
-  <a href="https://github.com/kksensen" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sendrick-muniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<br>
 
----
+<!-- ABOUT ME -->
+<h2 align="center"> <img src="img/title-about.png" width="40"/> <em>About me</em> </h2>
 
-### Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<img src="img/spider-venom.gif" width="200" align="right" style="margin-left: 20px;" alt="Spider-Man Venom GIF" />
 
 <br/>
-<br/>
-
-### Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kksensen&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  Hello There! <em><b>I'm Sendrick Paz</b></em>, a 21-year-old student. I enjoy learning new technologies and building solid application architectures from scratch. Now I'm focusing my studies on backend and mobile development to put into practice my knowledge about APIs and interactive interfaces.
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="300" 
-      width="300"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kksensen&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<br/>
 
+<!-- LISTA COM ÍCONES CUSTOMIZADOS -->
+<p align="center">
+   <em><b>🕸️Studying Systems Analysis and Development at PUC Minas</b></em> <br/>
+   <em><b>🕷️Main focus on Java, Spring Boot, TypeScript, and React Native / Expo</b></em> <br/>
+   <em><b>🕸️Developed two mobile applications utilizing the React Native ecosystem</b></em> <br/>
+</p>
+
+<br/>
+<br/>
+
+<!-- TECHNOLOGIES -->
+<h2 align="center"> <img src="img/title-tech.png" width="35"/> <em>Technologies</em> </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<br/>
+
+<!-- STATISTICS -->
+<h2 align="center"> <img src="img/title-stats.png" width="80"/> <em>Statistics</em> </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kksensen&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&locale=en" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kksensen&layout=compact&custom_title=Languages&langs_count=9&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kksensen&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=false&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
