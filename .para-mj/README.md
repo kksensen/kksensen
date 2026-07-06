@@ -14,7 +14,7 @@
 
 <br/>
 
-### <img src="../.para-mj/spider-heart.png" width="28" style="vertical-align: middle;" alt="Heart" /> A âncora da minha mente
+<h3 align="center"><img src="../.para-mj/spider-heart.png" width="28" style="vertical-align: middle;" alt="Heart" /> A âncora da minha mente</h3>
 
 Sendo bem sincero, eu estaria completamente perdido na minha própria mente se não fosse por você. No meio de tantas ideias caóticas, é você quem me ajuda a organizar tudo. Você me faz planejar, me coloca pra frente e, mais do que qualquer outra pessoa, acredita no meu potencial. 
 
@@ -22,7 +22,7 @@ Ter você ali para validar as minhas ideias, me ouvir e apoiar os meus projetos 
 
 <br/>
 
-### <img src="../.para-mj/spider-world.png" width="35" style="vertical-align: middle;" alt="World" /> Minha base e maior inspiração
+<h3 align="center"><img src="../.para-mj/spider-world.png" width="35" style="vertical-align: middle;" alt="World" /> Minha base e maior inspiração</h3>
 
 <p>Você tem sido a motivação central por trás de tudo o que eu construo. Eu me inspiro todos os dias na sua força, na sua inteligência incrível, na sua garra e no seu jeito único de ser e de pensar.</p>
 
@@ -37,5 +37,5 @@ Conta comigo hoje, amanhã e sempre.</p>
 
 <br/>
 
-Com todo o carinho do mundo,<br>
-**Do seu Peter 🫠❤️**
+<p align="center">Com todo o carinho do mundo,<br>
+**Do seu Peter 🫠❤️**</p>
