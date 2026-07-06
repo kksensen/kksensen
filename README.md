@@ -57,7 +57,7 @@
       <img src="https://img.shields.io/badge/Expo-E23636?style=for-the-badge&logo=expo&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-173679?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-E23636?style=for-the-badge&logo=sqlite&logoColor=white" /><br><br>
-      <a href="https://github.com/kksensen/apex-routine">🕷️ Repository</a>
+      <a href="https://github.com/kksensen/apex-routine-showcase">🕷️ Repository</a>
     </td>
     <td width="50%" align="center" style="border: none;">
       <br/>
