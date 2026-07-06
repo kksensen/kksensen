@@ -21,22 +21,30 @@
 <!-- ABOUT ME -->
 <h2 align="center"> <img src="img/title-about.png" width="40" style="vertical-align: middle;"/> <em style="color: #E23636;">About me</em> </h2>
 
-<img src="img/spidey-running.gif" width="200" align="right" style="margin-left: 20px;" alt="Spider-Man Classic GIF" />
-
 <br/>
 
-<p>
-  Hello There! <em style="color: #E23636;"><b>I'm Sendrick Paz</b></em>, a 21-year-old student. I enjoy learning new technologies and building solid application architectures from scratch. Now I'm focusing my studies on backend and mobile development to put into practice my knowledge about APIs and interactive interfaces.
-</p>
-
-<br/>
-
-<!-- LISTA COM ÍCONES CUSTOMIZADOS -->
-<p align="center">
-   <em><b>🕸️ Studying Systems Analysis and Development at PUC Minas</b></em> <br/>
-   <em><b>🕷️ Main focus on Java, Spring Boot, TypeScript, and React Native / Expo</b></em> <br/>
-   <em><b>🕸️ Developing cross-platform mobile applications and scalable backend systems</b></em> <br/>
-</p>
+<!-- Usando tabela para forçar o texto a ficar mais estreito e aumentar o GIF -->
+<table align="center" style="border: none;">
+  <tr>
+    <td width="60%" style="border: none; vertical-align: middle;">
+      <p>Hello There! <em style="color: #E23636;"><b>I'm Sendrick Paz</b></em>, a 21-year-old student. I enjoy learning new technologies and building solid application architectures from scratch. Now I'm focusing my studies on backend and mobile development to put into practice my knowledge about APIs and interactive interfaces.</p>
+      <br/>
+      <div style="padding-left: 20px;">
+        <em><b>🕸️ Studying Systems Analysis and Development at PUC Minas</b></em><br/><br/>
+        <em><b>🕷️ Main focus on:</b></em> &nbsp;
+        Java<img src="https://img.shields.io/badge/-173679?style=flat-square&logo=java&logoColor=white" title="Java" width="28" style="vertical-align: middle;" />
+        Spring Boot<img src="https://img.shields.io/badge/-E23636?style=flat-square&logo=spring&logoColor=white" title="Spring Boot" width="28" style="vertical-align: middle;" />
+        <img src="https://img.shields.io/badge/-173679?style=flat-square&logo=typescript&logoColor=white" title="TypeScript" width="28" style="vertical-align: middle;" />
+        <img src="https://img.shields.io/badge/-E23636?style=flat-square&logo=react&logoColor=white" title="React Native" width="28" style="vertical-align: middle;" />
+        <img src="https://img.shields.io/badge/-173679?style=flat-square&logo=expo&logoColor=white" title="Expo" width="28" style="vertical-align: middle;" /><br/><br/>
+        <em><b>🕸️ Developing cross-platform <code>mobile</code> applications and scalable <code>backend</code> systems</b></em>
+      </div>
+    </td>
+    <td width="40%" align="center" style="border: none; vertical-align: middle;">
+      <img src="img/spidey-running.gif" width="280" alt="Spider-Man Classic GIF" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
@@ -50,43 +58,42 @@
   <!-- LINHA 1: PROJETOS MOBILE -->
   <tr>
     <td width="50%" align="center" style="border: none;">
-      <h3><img src="img/apex-routine-icon.png" width="40" style="vertical-align: middle;"/> Apex Routine</h3>
+      <br/>
+      <b><span style="font-size: 18px;"><img src="img/apex-routine-icon.png" width="28" align="center"/> Apex Routine</span></b><br/><br/>
       <p>A mobile app designed to build consistent daily habits through gamification and absolute focus on a single main task.</p>
       <img src="https://img.shields.io/badge/React_Native-173679?style=for-the-badge&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/Expo-E23636?style=for-the-badge&logo=expo&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-173679?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-E23636?style=for-the-badge&logo=sqlite&logoColor=white" />
-      <br><br>
+      <img src="https://img.shields.io/badge/SQLite-E23636?style=for-the-badge&logo=sqlite&logoColor=white" /><br><br>
       <a href="https://github.com/kksensen/apex-routine">🕷️ Repository</a>
     </td>
     <td width="50%" align="center" style="border: none;">
-      <h3><img src="img/royal-care-icon.png" width="40" style="vertical-align: middle;"/> RoyalCare</h3>
+      <br/>
+      <b><span style="font-size: 18px;"><img src="img/royal-care-icon.png" width="28" align="center"/> RoyalCare</span></b><br/><br/>
       <p>An offline-first medication management system with predictive stock control and automated daily PDF reporting.</p>
       <img src="https://img.shields.io/badge/React_Native-173679?style=for-the-badge&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/Expo-E23636?style=for-the-badge&logo=expo&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-173679?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-E23636?style=for-the-badge&logo=sqlite&logoColor=white" />
-      <br><br>
+      <img src="https://img.shields.io/badge/SQLite-E23636?style=for-the-badge&logo=sqlite&logoColor=white" /><br><br>
       <a href="https://github.com/kksensen/royalcare">🕷️ Repository</a>
     </td>
   </tr>
-  
-  <!-- LINHA 2: PROJETOS WEB (Templates Landing Pages) -->
+  <!-- LINHA 2: PROJETOS WEB -->
   <tr>
     <td width="50%" align="center" style="border: none;">
-      <h3>🌐 [Web Project Title 1]</h3>
+      <br/>
+      <b><span style="font-size: 18px;">🌐 [Web Project Title 1]</span></b><br/><br/>
       <p>A modern, responsive landing page focused on performance and seamless user experience.</p>
       <img src="https://img.shields.io/badge/React-173679?style=for-the-badge&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-E23636?style=for-the-badge&logo=typescript&logoColor=white" />
-      <br><br>
+      <img src="https://img.shields.io/badge/TypeScript-E23636?style=for-the-badge&logo=typescript&logoColor=white" /><br><br>
       <a href="#">🕷️ Repository</a> &nbsp; | &nbsp; <a href="#">🕸️ Live Demo</a>
     </td>
     <td width="50%" align="center" style="border: none;">
-      <h3>🌐 [Web Project Title 2]</h3>
+      <br/>
+      <b><span style="font-size: 18px;">🌐 [Web Project Title 2]</span></b><br/><br/>
       <p>An interactive web interface designed with clean architecture and typed components.</p>
       <img src="https://img.shields.io/badge/React-173679?style=for-the-badge&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-E23636?style=for-the-badge&logo=typescript&logoColor=white" />
-      <br><br>
+      <img src="https://img.shields.io/badge/TypeScript-E23636?style=for-the-badge&logo=typescript&logoColor=white" /><br><br>
       <a href="#">🕷️ Repository</a> &nbsp; | &nbsp; <a href="#">🕸️ Live Demo</a>
     </td>
   </tr>
