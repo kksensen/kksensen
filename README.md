@@ -23,25 +23,17 @@
 
 <br/>
 
-<!-- Usando tabela para forçar o texto a ficar mais estreito e aumentar o GIF -->
+<!-- Estrutura de tabela sem linhas vazias para evitar bug de renderização de código no GitHub -->
 <table align="center" style="border: none;">
   <tr>
-    <td width="60%" style="border: none; vertical-align: middle;">
-      <p>Hello There! <em style="color: #E23636;"><b>I'm Sendrick Paz</b></em>, a 21-year-old student. I enjoy learning new technologies and building solid application architectures from scratch. Now I'm focusing my studies on backend and mobile development to put into practice my knowledge about APIs and interactive interfaces.</p>
-      <br/>
-      <div style="padding-left: 20px;">
-        <em><b>🕸️ Studying Systems Analysis and Development at PUC Minas</b></em><br/><br/>
-        <em><b>🕷️ Main focus on:</b></em> &nbsp;
-        Java<img src="https://img.shields.io/badge/-173679?style=flat-square&logo=java&logoColor=white" title="Java" width="28" style="vertical-align: middle;" />
-        Spring Boot<img src="https://img.shields.io/badge/-E23636?style=flat-square&logo=spring&logoColor=white" title="Spring Boot" width="28" style="vertical-align: middle;" />
-        <img src="https://img.shields.io/badge/-173679?style=flat-square&logo=typescript&logoColor=white" title="TypeScript" width="28" style="vertical-align: middle;" />
-        <img src="https://img.shields.io/badge/-E23636?style=flat-square&logo=react&logoColor=white" title="React Native" width="28" style="vertical-align: middle;" />
-        <img src="https://img.shields.io/badge/-173679?style=flat-square&logo=expo&logoColor=white" title="Expo" width="28" style="vertical-align: middle;" /><br/><br/>
-        <em><b>🕸️ Developing cross-platform <code>mobile</code> applications and scalable <code>backend</code> systems</b></em>
-      </div>
+    <td width="65%" style="border: none; vertical-align: middle; padding-right: 20px;">
+      <p>Hello! I'm <strong style="color: #E23636;">Sendrick Paz</strong>, a software developer from Minas Gerais driven by a deep passion for technology and continuous learning. I treat software engineering not just as a study path, but as a craft. I thrive on the challenge of taking ideas from scratch and architecting them into solid, scalable, and high-performance applications.</p><br/>
+      <p>Currently pursuing my degree in <b>Systems Analysis and Development at PUC Minas</b>, I pour my dedication into writing clean, maintainable code. Whether I am structuring a resilient backend API or designing a seamless cross-platform mobile experience, my goal is always to deliver value and solve real-world problems efficiently.</p><br/>
+      <p>🕸️ <b>Current Focus:</b> Advancing my expertise in <code>Java & Spring Boot</code> for backend systems, and <code>TypeScript & React Native</code> for mobile ecosystems.</p><br/>
+      <p>🕷️ <b>Ambition:</b> To become a technical reference in my field and build a solid international career. Ultimately, the goal is simple: write world-class code, conquer the tech world, and achieve all shared professional goals alongside my favorite coding partner <img src="img/spider-heart.png" width="25" style="vertical-align: middle;" alt="Heart" />.</p>
     </td>
-    <td width="40%" align="center" style="border: none; vertical-align: middle;">
-      <img src="img/spidey-running.gif" width="280" alt="Spider-Man Classic GIF" />
+    <td width="35%" align="center" style="border: none; vertical-align: middle;">
+      <img src="img/spidey-running.gif" width="100%" style="max-width: 300px;" alt="Spider-Man Classic GIF" />
     </td>
   </tr>
 </table>
@@ -106,12 +98,21 @@
 <h2 align="center"> <img src="img/title-tech.png" width="35" style="vertical-align: middle;"/> <em style="color: #E23636;">Technologies</em> </h2>
 
 <p align="center">
+  <b>Backend:</b><br/>
   <img src="https://img.shields.io/badge/Java-173679?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-E23636?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+</p>
+<p align="center">
+  <b>Mobile & Frontend:</b><br/>
   <img src="https://img.shields.io/badge/TypeScript-173679?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React_Native-E23636?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-173679?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/MySQL-E23636?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/React-E23636?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+</p>
+<p align="center">
+  <b>Database & Tools:</b><br/>
+  <img src="https://img.shields.io/badge/MySQL-173679?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-E23636?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Git-173679?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
