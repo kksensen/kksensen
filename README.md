@@ -5,17 +5,43 @@
 
 <!-- REDES SOCIAIS E PORTFÓLIO -->
 <p align="center">
+  <!-- Badges com pontas arredondadas (style=flat) -->
   <a href="https://github.com/kksensen" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-173679?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-173679?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/sendrickpaz/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-E23636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-E23636?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="LINK_DO_SEU_PORTFOLIO_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-173679?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfólio-173679?style=flat&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
+<br>
+
+<!-- QUICK SUMMARY / TL;DR -->
+<div align="center">
+  <!-- Título animado moderno -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E23636&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+%7C+Java+%26+Spring;Mobile+%7C+React+Native" alt="Typing SVG" />
+  </a>
+  
+  <br/>
+  
+  <p>Focused on building robust scalable architectures, responsive web solutions, and cross-platform applications.</p>
+  
+  <br/>
+  
+  <p>
+    <!-- Badges de tecnologia com texto, mas formato arredondado super clean -->
+    <img src="https://img.shields.io/badge/Java-173679?style=flat&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring_Boot-E23636?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/TypeScript-173679?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React_Native-E23636?style=flat&logo=react&logoColor=white" alt="React Native" />
+  </p>
+</div>
+
+<br>
 <br>
 
 <!-- ABOUT ME -->
@@ -23,14 +49,15 @@
 
 <br/>
 
-<!-- Estrutura de tabela sem linhas vazias para evitar bug de renderização de código no GitHub -->
+<!-- Estrutura de tabela -->
 <table align="center" style="border: none;">
   <tr>
     <td width="65%" style="border: none; vertical-align: middle; padding-right: 20px;">
       <p>Hello! I'm <strong style="color: #E23636;">Sendrick Paz</strong>, a software developer from Minas Gerais driven by a deep passion for technology and continuous learning. I treat software engineering not just as a study path, but as a craft. I thrive on the challenge of taking ideas from scratch and architecting them into solid, scalable, and high-performance applications.</p><br/>
       <p>Currently pursuing my degree in <b>Systems Analysis and Development at PUC Minas</b>, I pour my dedication into writing clean, maintainable code. Whether I am structuring a resilient backend API or designing a seamless cross-platform mobile experience, my goal is always to deliver value and solve real-world problems efficiently.</p><br/>
       <p>🕸️ <b>Current Focus:</b> Advancing my expertise in <code>Java & Spring Boot</code> for backend systems, and <code>TypeScript & React Native</code> for mobile ecosystems.</p><br/>
-      <p>🕷️ <b>Ambition:</b> To become a technical reference in my field and build a solid international career. Ultimately, the goal is simple: write world-class code, conquer the tech world, and achieve all shared professional goals alongside my favorite coding partner <img src="img/spider-heart.png" width="25" style="vertical-align: middle;" alt="Heart" />.</p>
+      <!-- Corrigido o alinhamento do coração -->
+      <p>🕷️ <b>Ambition:</b> To become a technical reference in my field and build a solid international career. Ultimately, the goal is simple: write world-class code, conquer the tech world, and achieve all shared professional goals alongside my favorite coding partner <img src="img/spider-heart.png" width="20" style="vertical-align: text-bottom;" alt="Heart" />.</p>
     </td>
     <td width="35%" align="center" style="border: none; vertical-align: middle;">
       <img src="img/spidey-running.gif" width="100%" style="max-width: 300px;" alt="Spider-Man Classic GIF" />
