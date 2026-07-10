@@ -5,7 +5,6 @@
 
 <!-- REDES SOCIAIS E PORTFÓLIO -->
 <p align="center">
-  <!-- Badges com pontas arredondadas (style=flat) -->
   <a href="https://github.com/kksensen" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-173679?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -21,7 +20,6 @@
 
 <!-- QUICK SUMMARY / TL;DR -->
 <div align="center">
-  <!-- Título animado moderno -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E23636&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+%7C+Java+%26+Spring;Mobile+%7C+React+Native" alt="Typing SVG" />
   </a>
@@ -33,7 +31,6 @@
   <br/>
   
   <p>
-    <!-- Badges de tecnologia com texto, mas formato arredondado super clean -->
     <img src="https://img.shields.io/badge/Java-173679?style=flat&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Spring_Boot-E23636?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
     <img src="https://img.shields.io/badge/TypeScript-173679?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -56,7 +53,6 @@
       <p>Hello! I'm <strong style="color: #E23636;">Sendrick Paz</strong>, a software developer from Minas Gerais driven by a deep passion for technology and continuous learning. I treat software engineering not just as a study path, but as a craft. I thrive on the challenge of taking ideas from scratch and architecting them into solid, scalable, and high-performance applications.</p><br/>
       <p>Currently pursuing my degree in <b>Systems Analysis and Development at PUC Minas</b>, I pour my dedication into writing clean, maintainable code. Whether I am structuring a resilient backend API or designing a seamless cross-platform mobile experience, my goal is always to deliver value and solve real-world problems efficiently.</p><br/>
       <p>🕸️ <b>Current Focus:</b> Advancing my expertise in <code>Java & Spring Boot</code> for backend systems, and <code>TypeScript & React Native</code> for mobile ecosystems.</p><br/>
-      <!-- Corrigido o alinhamento do coração -->
       <p>🕷️ <b>Ambition:</b> To become a technical reference in my field and build a solid international career. Ultimately, the goal is simple: write world-class code, conquer the tech world, and achieve all shared professional goals alongside my favorite coding partner <img src="img/spider-heart.png" width="20" style="vertical-align: text-bottom;" alt="Heart" />.</p>
     </td>
     <td width="35%" align="center" style="border: none; vertical-align: middle;">
@@ -74,7 +70,6 @@
 <br/>
 
 <table align="center" style="border: none;">
-  <!-- LINHA 1: PROJETOS MOBILE -->
   <tr>
     <td width="50%" align="center" style="border: none;">
       <br/>
@@ -97,15 +92,17 @@
       <a href="https://github.com/kksensen/royalcare-showcase">🕷️ Repository [showcase]</a>
     </td>
   </tr>
-  <!-- LINHA 2: PROJETOS WEB -->
+  <!-- LINHA 2: PROJETOS WEB E COMUNICAÇÃO -->
   <tr>
     <td width="50%" align="center" style="border: none;">
       <br/>
-      <b><span style="font-size: 18px;">🌐 [Web Project Title 1]</span></b><br/><br/>
-      <p>A modern, responsive landing page focused on performance and seamless user experience.</p>
+      <b><span style="font-size: 18px;">👑 Crownly</span></b><br/><br/>
+      <p>A real-time communication hub featuring low-latency WebSocket text chat and WebRTC P2P voice calls, wrapped in a dynamic UI.</p>
       <img src="https://img.shields.io/badge/React-173679?style=for-the-badge&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-E23636?style=for-the-badge&logo=typescript&logoColor=white" /><br><br>
-      <a href="#">🕷️ Repository</a> &nbsp; | &nbsp; <a href="#">🕸️ Live Demo</a>
+      <img src="https://img.shields.io/badge/Java-E23636?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebRTC-173679?style=for-the-badge&logo=webrtc&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-E23636?style=for-the-badge&logo=mysql&logoColor=white" /><br><br>
+      <a href="https://github.com/kksensen/crownly-app-showcase">🕷️ Repository[showcase]</a>
     </td>
     <td width="50%" align="center" style="border: none;">
       <br/>
@@ -148,11 +145,18 @@
 <!-- STATISTICS -->
 <h2 align="center"> <img src="img/title-stats.png" width="80" style="vertical-align: middle;"/> <em style="color: #173679;">Statistics</em> </h2>
 
+<!-- GitHub Stats & Streak (Lado a Lado) -->
 <p align="center">
   <img src="https://github-readme-stats-seven-plum-34.vercel.app/api?username=kksensen&show_icons=true&bg_color=0D1117&title_color=E23636&text_color=FFFFFF&icon_color=173679&hide_border=true&locale=en" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kksensen&theme=dark&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakNum=FFFFFF&currStreakLabel=173679&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="170" alt="GitHub Streak" />
+</p>
+
+<!-- Top Languages (Embaixo) -->
+<p align="center">
   <img src="https://github-readme-stats-seven-plum-34.vercel.app/api/top-langs/?username=kksensen&layout=compact&custom_title=Languages&langs_count=9&bg_color=0D1117&title_color=E23636&text_color=FFFFFF&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kksensen&bg_color=0D1117&color=E23636&line=173679&point=FFFFFF&area=false&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
