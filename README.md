@@ -69,6 +69,57 @@
 
 <br/>
 
+<!-- SEÇÃO 1: BACKEND -->
+<h3 align="center">⚙️ Backend & API Development</h3>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <br/>
+      <b><span style="font-size: 18px;">🏎️ Tuning Shop API</span></b><br/><br/>
+      <p>A RESTful API to manage performance car catalogs and modifications. Features complex <code>@ManyToMany</code> relationships, dynamic HP calculation, and strict business rules preventing duplicate part installations.</p>
+      <img src="https://img.shields.io/badge/Java_21-173679?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-E23636?style=for-the-badge&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-173679?style=for-the-badge&logo=mysql&logoColor=white" /><br><br>
+      <a href="https://github.com/kksensen/tuning-shop-api">🕷️ Repository</a>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <br/>
+      <b><span style="font-size: 18px;">🏁 F1 Telemetry & Stats API</span></b><br/><br/>
+      <p>Data-driven API for historical Formula 1 metrics and race stats. Built for optimizing reads with complex <code>JPQL</code>/Native queries, data aggregation, pagination, and advanced nested JSON structuring.</p>
+      <img src="https://img.shields.io/badge/Java_21-173679?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-E23636?style=for-the-badge&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-173679?style=for-the-badge&logo=postgresql&logoColor=white" /><br><br>
+      <a href="#">🕷️ Repository [WIP]</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <br/>
+      <b><span style="font-size: 18px;">💳 Payment Gateway API</span></b><br/><br/>
+      <p>High-availability payment processing simulator. Ensures transactional integrity with ACID compliance (<code>@Transactional</code>), DTO patterns, strict balance validations, and global exception handling.</p>
+      <img src="https://img.shields.io/badge/Java_21-173679?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-E23636?style=for-the-badge&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-173679?style=for-the-badge&logo=mysql&logoColor=white" /><br><br>
+      <a href="#">🕷️ Repository [WIP]</a>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <br/>
+      <b><span style="font-size: 18px;">📈 Stock Market Simulator</span></b><br/><br/>
+      <p>Real-time trading engine for order matching. Highly focused on Java concurrency control (Locks), transaction isolation, dynamic price state updates, and complex rule engines to handle processing bottlenecks.</p>
+      <img src="https://img.shields.io/badge/Java_21-173679?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-E23636?style=for-the-badge&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-173679?style=for-the-badge&logo=mysql&logoColor=white" /><br><br>
+      <a href="#">🕷️ Repository [WIP]</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- SEÇÃO 2: MOBILE & FULLSTACK -->
+<h3 align="center">📱 Mobile & Fullstack Ecosystem</h3>
+
 <table align="center" style="border: none;">
   <tr>
     <td width="50%" align="center" style="border: none;">
@@ -92,7 +143,6 @@
       <a href="https://github.com/kksensen/royalcare-showcase">🕷️ Repository [showcase]</a>
     </td>
   </tr>
-  <!-- LINHA 2: PROJETOS WEB E COMUNICAÇÃO -->
   <tr>
     <td width="50%" align="center" style="border: none;">
       <br/>
@@ -102,7 +152,7 @@
       <img src="https://img.shields.io/badge/Java-E23636?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/WebRTC-173679?style=for-the-badge&logo=webrtc&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-E23636?style=for-the-badge&logo=mysql&logoColor=white" /><br><br>
-      <a href="https://github.com/kksensen/crownly-app-showcase">🕷️ Repository[showcase]</a>
+      <a href="https://github.com/kksensen/crownly-app-showcase">🕷️ Repository [showcase]</a>
     </td>
     <td width="50%" align="center" style="border: none;">
       <br/>
@@ -147,7 +197,7 @@
 
 <!-- GitHub Stats & Streak (Lado a Lado) -->
 <p align="center">
-  <img src="https://github-readme-stats-seven-plum-34.vercel.app/api?username=kksensen&show_icons=true&bg_color=0D1117&title_color=E23636&text_color=FFFFFF&icon_color=173679&hide_border=true&locale=en" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-seven-plum-34.vercel.app/api?username=kksensen&show_icons=true&bg_color=0D1117&title_color=E23636&text_color=FFFFFF&icon_color=173679&hide_border=true&locale=en&include_all_commits=true" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kksensen&theme=dark&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakNum=FFFFFF&currStreakLabel=173679&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="170" alt="GitHub Streak" />
 </p>
 
