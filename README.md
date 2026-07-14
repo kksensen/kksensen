@@ -197,7 +197,7 @@
 
 <!-- GitHub Stats & Streak (Lado a Lado) -->
 <p align="center">
-  <img src="https://github-readme-stats-seven-plum-34.vercel.app/api?username=kksensen&show_icons=true&bg_color=0D1117&title_color=E23636&text_color=FFFFFF&icon_color=173679&hide_border=true&locale=en&include_all_commits=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-seven-plum-34.vercel.app/api?username=kksensen&show_icons=true&bg_color=0D1117&title_color=E23636&text_color=FFFFFF&icon_color=173679&hide_border=true&locale=en&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kksensen&theme=dark&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakNum=FFFFFF&currStreakLabel=173679&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="170" alt="GitHub Streak" />
 </p>
 
