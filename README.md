@@ -38,7 +38,7 @@
 <br>
 <br>
 
-<h2 align="center"> <img src="img/title-about.png" width="40" style="vertical-align: middle;"/> <em style="color: #0055FF;">System Logs & Diagnostics</em> </h2>
+<h2 align="center"> <img src="img/title-about.png" width="40" align="absmiddle"/> <em style="color: #0055FF;">System Logs & Diagnostics</em> </h2>
 
 <br/>
 
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<h2 align="center"> <img src="img/projects-icon.png" width="35" style="vertical-align: middle;"/> <em style="color: #0055FF;">Baxter Building Archives</em> </h2>
+<h2 align="center"> <img src="img/projects-icon.png" width="35" align="absmiddle"/> <em style="color: #0055FF;">Baxter Building Archives</em> </h2>
 
 <br/>
 
@@ -84,7 +84,7 @@
 <br/>
 <br/>
 
-<h2 align="center"> <img src="img/projects-icon.png" width="35" style="vertical-align: middle;"/> <em style="color: #0055FF;">Laboratory Tools</em> </h2>
+<h2 align="center"> <img src="img/projects-icon.png" width="35" align="absmiddle"/> <em style="color: #0055FF;">Laboratory Tools</em> </h2>
 
 <p align="center">
   <b>Backend Infrastructure:</b><br/>
@@ -107,7 +107,7 @@
 
 <br/>
 
-<h2 align="center"> <img src="img/title-stats.png" width="30" style="vertical-align: middle;"/> <em style="color: #0055FF;">Telemetry Data</em> </h2>
+<h2 align="center"> <img src="img/title-stats.png" width="30" align="absmiddle"/> <em style="color: #0055FF;">Telemetry Data</em> </h2>
 
 <p align="center">
   <img src="https://github-readme-stats-seven-plum-34.vercel.app/api?username=kksensen&show_icons=true&bg_color=0D1117&title_color=0055FF&text_color=FFFFFF&icon_color=0055FF&hide_border=true&locale=en&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
