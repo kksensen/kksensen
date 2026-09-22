@@ -112,5 +112,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kksensen&bg_color=0D1117&color=bf1e2e&line=fcb040&point=213b5e&area=false&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph-three-tau.vercel.app/graph?username=kksensen&bg_color=0D1117&color=213b5e&line=bf1e2e&point=fcb040&area=false&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
 </p>
