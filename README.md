@@ -38,7 +38,7 @@
 <br>
 <br>
 
-<h2 align="center"> <img src="img/title-about.png" width="40" style="vertical-align: middle;" alt="Daily Planet Globe Icon"/> <em style="color: #fcb040;">About Me</em> </h2>
+<h2 align="center"><img src="img/title-about.png" width="40" align="absmiddle" style="vertical-align: middle;" alt="Daily Planet Globe Icon"/> <em style="color: #fcb040;">About Me</em></h2>
 
 <br/>
 
@@ -47,8 +47,8 @@
     <td width="65%" style="border: none; vertical-align: middle; padding-right: 20px;">
       <p>Hello! I'm <strong style="color: #bf1e2e;">Sendrick Paz</strong>, a software developer from Minas Gerais driven by a deep passion for technology and continuous learning. I treat software engineering not just as a study path, but as a craft. I thrive on the challenge of taking ideas from scratch and architecting them into solid, scalable, and high-performance applications.</p><br/>
       <p>Currently pursuing my degree in <b style="color: #fcb040;">Systems Analysis and Development at PUC Minas</b>, I pour my dedication into writing clean, maintainable code. Whether I am structuring a resilient backend API or designing a seamless cross-platform mobile experience, my goal is always to deliver value and solve real-world problems efficiently.</p><br/>
-      <p><img src="img/logo-superman.png" width="35" style="vertical-align: middle;" alt="Hope Logo"/> <b>Current Focus:</b> Advancing my expertise in <code style="color: #213b5e; background-color: #fcb040; padding: 2px 4px; border-radius: 4px;">Java & Spring Boot</code> for backend systems.</p>
-      <p><img src="img/logo-superman.png" width="35" style="vertical-align: middle;" alt="Hope Logo"/> <b>Ambition:</b> To become a technical reference in my field and build a solid international career. Ultimately, the goal is simple: write world-class code.</p>
+      <p><img src="img/logo-superman.png" width="30" align="absmiddle" style="vertical-align: middle;" alt="Hope Logo"/> <b>Current Focus:</b> Advancing my expertise in <code style="color: #213b5e; background-color: #fcb040; padding: 2px 4px; border-radius: 4px;">Java & Spring Boot</code> for backend systems.</p>
+      <p><img src="img/logo-superman.png" width="30" align="absmiddle" style="vertical-align: middle;" alt="Hope Logo"/> <b>Ambition:</b> To become a technical reference in my field and build a solid international career. Ultimately, the goal is simple: write world-class code.</p>
     </td>
     <td width="35%" align="center" style="border: none; vertical-align: middle;">
       <img src="img/superman.gif" width="100%" style="max-width: 200px;" alt="Superman flying animation GIF" />
@@ -56,27 +56,28 @@
   </tr>
 </table>
 
-<br/>
-<br/>
+<br>
+<br>
 
-<h2 align="center"> <img src="img/fortress.png" width="35" style="vertical-align: middle;" alt="Fortress of Solitude Icon"/> <em style="color: #fcb040;">Classified Projects</em> </h2>
+<h2 align="center"><img src="img/fortress.png" width="35" align="absmiddle" style="vertical-align: middle;" alt="Fortress of Solitude Icon"/> <em style="color: #fcb040;">Classified Projects</em></h2>
 
-<br/>
+<br>
 
 <p align="center">
-  <i> <img src="img/kryptonite.png" width="35" style="vertical-align: middle;" alt="Kryptonite Crystal Icon"/> [ ARCHIVES PENDING DECLASSIFICATION ]</i><br/>
+  <i><img src="img/kryptonite.png" width="30" align="absmiddle" style="vertical-align: middle;" alt="Kryptonite Crystal Icon"/> [ ARCHIVES PENDING DECLASSIFICATION ]</i><br/>
   <i>⚠️ Currently restructuring the active repositories. New blueprints will be uploaded shortly.</i>
 </p>
 
+<!-- ESPAÇO RESERVADO PARA OS PROJETOS FUTUROS -->
 <table align="center" style="border: none;">
   <tr>
   </tr>
 </table>
 
-<br/>
-<br/>
+<br>
+<br>
 
-<h2 align="center"> <img src="img/sun.png" width="35" style="vertical-align: middle;" alt="Yellow Sun Icon"/> <em style="color: #fcb040;">Tech Arsenal</em> </h2>
+<h2 align="center"><img src="img/sun.png" width="35" align="absmiddle" style="vertical-align: middle;" alt="Yellow Sun Icon"/> <em style="color: #fcb040;">Tech Arsenal</em></h2>
 
 <p align="center">
   <b>Backend Infrastructure:</b><br/>
@@ -97,9 +98,9 @@
   <img src="https://img.shields.io/badge/Git-bf1e2e?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
 </p>
 
-<br/>
+<br>
 
-<h2 align="center"> <img src="img/title-stats.png" width="30" style="vertical-align: middle;" alt="Telemetry Stats Icon"/> <em style="color: #fcb040;">Telemetry Data</em> </h2>
+<h2 align="center"><img src="img/title-stats.png" width="30" align="absmiddle" style="vertical-align: middle;" alt="Telemetry Stats Icon"/> <em style="color: #fcb040;">Telemetry Data</em></h2>
 
 <p align="center">
   <img src="https://github-readme-stats-seven-plum-34.vercel.app/api?username=kksensen&show_icons=true&bg_color=0D1117&title_color=fcb040&text_color=FFFFFF&icon_color=bf1e2e&hide_border=true&locale=en&include_all_commits=true&count_private=true" height="170" alt="GitHub Global Statistics" />
