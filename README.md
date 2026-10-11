@@ -1,4 +1,4 @@
-<video src="img/batman-banner.mp4" width="100%" autoplay loop muted></video>
+<img src="img/batman-banner.gif" width="100%" alt="Batman themed Sendrick's GitHub Banner" />
 
 <br>
 
